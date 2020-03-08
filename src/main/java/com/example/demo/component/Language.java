@@ -7,6 +7,7 @@ public class Language {
 
 
     public String hello() {
+        System.out.println("bla-bla");
         return "Hello";
     }
 
