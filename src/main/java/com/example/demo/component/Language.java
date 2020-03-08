@@ -6,13 +6,7 @@ import org.springframework.stereotype.Component;
 public class Language {
 
 
-
-
-
-
-
     public String hello() {
-        System.out.println("hello");
         return "Hello";
     }
 
